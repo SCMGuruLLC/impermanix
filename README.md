@@ -1,2 +1,2 @@
 # impermanix
-A modular, resource efficient, deterministicly built, and freedom respecting operating system
+A secure, modular, deterministicly built, resource efficient, and freedom respecting operating system
